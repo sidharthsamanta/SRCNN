@@ -1,5 +1,6 @@
 # SRCNN
-Modified Faster RCNN for Remote Sensing Imagery (Spatial Resolution Independent)
+Sliding Region based Convolutional Neural Network
+Modified Faster RCNN for Remote Sensing Imagery (Spatial Resolution and size Independent)
 
 # Prerequisites 
 1. Python 3
