@@ -9,8 +9,9 @@ Modified Faster RCNN for Remote Sensing Imagery (Spatial Resolution Independent)
 
 # Python Libraries
 1. Create a new anaconda environment (in command prompt)
-  '''python
-  C:\> conda create -n tensorflow1 pip python=3.5'''
+  '''
+  C:\> conda create -n tensorflow1 pip python=3.5
+  '''
 2. Activate the enviromnet and update
   C:\> activate tensorflow1
   (tensorflow1) C:\>python -m pip install --upgrade pip
