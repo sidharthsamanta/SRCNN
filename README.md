@@ -7,6 +7,7 @@ Modified Faster RCNN for Remote Sensing Imagery (Spatial Resolution and size Ind
 2. Anaconda Navigator
 3. Minimum i5 processor with 8GB RAM
 4. GPU (NVIDIA Preferred)
+5. 
 
 # Python Libraries
 1. Create a new anaconda environment (in command prompt)
